@@ -1,6 +1,7 @@
 ---
 title: Jsonp使用
 date: 2016-05-03 10:19:19
+categories: JavaScript
 tags:
 ---
 ## 服务端提供数据
