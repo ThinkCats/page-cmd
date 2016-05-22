@@ -2,7 +2,7 @@
 title: 徒手撸一个Photo Hub（ReactJS + AltJS + Express ）(一)
 date: 2016-05-22 10:51:34
 categories: JavaScript
-tags:
+tags: ReactJS
 ---
 
 昨天和今天，拿react和express撸了一个网站，现在只是把前端搞成react的了，各个组件已拆分好，后端也已经集成好。
@@ -20,3 +20,5 @@ tags:
 后端，Node还是没有完全支持 ES6，于是，使用了babel-node在后端转化了一下。参考淘宝的文章：《[找回 Node.js 里面那些遗失的 ES6 特性](http://taobaofed.org/blog/2016/01/07/find-back-the-lost-es6-features-in-nodejs/)》
 
 前端，使用的是 ant-design 的命令行工具，antd-init，除了jquery在界面引用，其他的所有均作为js模块引入，包括css 和 自定义的js操作ui的片段。
+
+其他的东西，之后慢慢总结。
