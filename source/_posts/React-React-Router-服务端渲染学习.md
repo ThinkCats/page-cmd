@@ -7,7 +7,7 @@ tags: ReactJS, React-Router
 
 ### 吐槽下
 
-[《徒手撸一个Photo Hub（ReactJS + AltJS + Express ）》](http://thinkcat.me/2016/05/22/Photo-Hub/) 这玩意当初已经把界面撸好了，用 React 已经把 UI 搞完了，但是之后停滞了。因为发现 NodeJs 用 Es6 来写东西，是个大坑啊 ！！ 我死活不知道是哪里出问题了，NodeJs 愣是解析不到 JSX 了。
+发现 NodeJs 用 Es6 来写东西，是个大坑啊 ！！ 我死活不知道是哪里出问题了，NodeJs 愣是解析不到 JSX 了。
 
 已经纠结了两个晚上了。
 
